@@ -1,7 +1,7 @@
 {
-  "name": "saddle-contract",
+  "name": "invader-contract",
   "version": "0.0.1",
-  "description": "The smart contracts behind saddle.finance 🤠",
+  "description": "The smart contracts behind Invader 👾",
   "files": [
     "dist/**/*"
   ],
@@ -90,7 +90,7 @@
     "tbtc",
     "defi"
   ],
-  "author": "Satoshi Nakamoto 🤪",
+  "author": "👾",
   "license": "MIT",
   "lint-staged": {
     "*.ts": "eslint --cache --fix"
