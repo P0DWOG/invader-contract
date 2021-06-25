@@ -67,7 +67,7 @@ MNEMONIC_TEST_ACCOUNT="seed phrase"
 $ npx solidity-docgen --templates=templates
 ```
 
-The output in the `docs` folder should be copied to the appropriate folder in the [saddle-docs repo](https://github.com/saddle-finance/saddle-docs/tree/master/solidity-docs).
+The output in the `docs` folder should be copied to the appropriate folder /master/solidity-docs).
 
 ### Running Slither
 
