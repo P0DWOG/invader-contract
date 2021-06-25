@@ -79,3 +79,5 @@ $ slither .
 ```
 
 Slither is configured to run as a GitHub Action and error on any high findings.
+
+.
